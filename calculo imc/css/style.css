@@ -1,0 +1,15 @@
+div{
+    height:233px;
+    width: 333px;
+    background-color: rgb(106, 233, 255);
+    margin: auto;
+}
+#numero1, #numero2{
+    height: 33px;
+    margin: 3px;
+
+}
+button{
+    height: 33px;
+    width: 177px;
+}
